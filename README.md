@@ -9,6 +9,7 @@
        level graph means, in every flow,
        levels of path nodes should be 0, 1, 2...
        (in order) from s to t.
+       
 #Ford-Fulkerson Algorithm for Maximum Flow Problem
     Ford-Fulkerson Algorithm 
      The following is simple idea of Ford-Fulkerson algorithm:
